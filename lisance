@@ -1,1 +1,5 @@
-True
+{
+  "licence_code": "True",
+  "product_name": "Example Product",
+  "version": "1.0.0"
+}
